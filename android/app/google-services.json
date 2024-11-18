@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "929285184634",
+    "project_id": "la-zompopa-pizzeria",
+    "storage_bucket": "la-zompopa-pizzeria.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929285184634:android:98b3006802c16eb2516fc3",
+        "android_client_info": {
+          "package_name": "com.LaZompopa.pizzerialazompopa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929285184634-5e11j001levm7saimnmis56fbvkpjbin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LaZompopa.pizzerialazompopa",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "929285184634-juk5hf9sei4t6vlgiqnu318lvh9r6v4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0DfeMOicDMlkLwCNHXXe7Pjzqx5s47XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929285184634-juk5hf9sei4t6vlgiqnu318lvh9r6v4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929285184634-7lof4i3rbb7lhr8udnk9ajrcb9shn2mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.LaZompopa.pizzerialazompopa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
